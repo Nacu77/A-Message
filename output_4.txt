@@ -1,0 +1,21 @@
+
+------------- Concluzie pentru folosirea euristicii 1 -------------
+Drumul biletului este: 
+Denis v Livia v Florian v Larisa v Gabriel << Antonel v Delia < Lucian ^ Vlad << Remus ^ Florentina ^ Versace < Sandel ^ Gigel > Georgel
+
+Numarul de elevi pe la care trece biletul: 15
+Timpul de executare: 0.0009963512420654297
+
+------------- Concluzie pentru folosirea euristicii 2 -------------
+Drumul biletului este: 
+Denis v Livia v Florian v Larisa v Gabriel << Antonel v Delia < Lucian ^ Vlad << Remus ^ Florentina ^ Versace < Sandel ^ Gigel > Georgel
+
+Numarul de elevi pe la care trece biletul: 15
+Timpul de executare: 0.001999378204345703
+
+------------- Concluzie pentru folosirea euristicii 3 -------------
+Drumul biletului este: 
+Denis v Livia v Florian v Larisa v Gabriel << Antonel v Delia < Lucian << Mauro ^ Remus ^ Florentina < Hagi ^ Sandel ^ Gigel > Georgel
+
+Numarul de elevi pe la care trece biletul: 15
+Timpul de executare: 0.0009975433349609375

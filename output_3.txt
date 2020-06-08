@@ -1,0 +1,21 @@
+
+------------- Concluzie pentru folosirea euristicii 1 -------------
+Drumul biletului este: 
+Florentina v Remus >> Vlad > Antonel
+
+Numarul de elevi pe la care trece biletul: 4
+Timpul de executare: 0.0009996891021728516
+
+------------- Concluzie pentru folosirea euristicii 2 -------------
+Drumul biletului este: 
+Florentina v Remus >> Vlad > Antonel
+
+Numarul de elevi pe la care trece biletul: 4
+Timpul de executare: 0.0
+
+------------- Concluzie pentru folosirea euristicii 3 -------------
+Drumul biletului este: 
+Florentina v Remus >> Vlad > Antonel
+
+Numarul de elevi pe la care trece biletul: 4
+Timpul de executare: 0.0009992122650146484

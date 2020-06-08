@@ -1,0 +1,12 @@
+
+------------- Concluzie pentru folosirea euristicii 1 -------------
+Nu exista drum de la Livia la Sandel
+Timpul de executare: 0.0
+
+------------- Concluzie pentru folosirea euristicii 2 -------------
+Nu exista drum de la Livia la Sandel
+Timpul de executare: 0.00099945068359375
+
+------------- Concluzie pentru folosirea euristicii 3 -------------
+Nu exista drum de la Livia la Sandel
+Timpul de executare: 0.0020003318786621094

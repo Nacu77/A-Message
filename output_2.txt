@@ -1,0 +1,21 @@
+
+------------- Concluzie pentru folosirea euristicii 1 -------------
+Drumul biletului este: 
+Mirela
+
+Numarul de elevi pe la care trece biletul: 1
+Timpul de executare: 0.0
+
+------------- Concluzie pentru folosirea euristicii 2 -------------
+Drumul biletului este: 
+Mirela
+
+Numarul de elevi pe la care trece biletul: 1
+Timpul de executare: 0.0
+
+------------- Concluzie pentru folosirea euristicii 3 -------------
+Drumul biletului este: 
+Mirela
+
+Numarul de elevi pe la care trece biletul: 1
+Timpul de executare: 0.0
